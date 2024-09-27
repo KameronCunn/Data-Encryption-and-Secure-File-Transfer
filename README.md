@@ -1,5 +1,4 @@
-# PROJECTNAME
-
+# Data Encryption and Secure File Transfer
 ## Objective
 [Brief Objective - Remove this afterwards]
 
